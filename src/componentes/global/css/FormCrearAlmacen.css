@@ -1,0 +1,12 @@
+.card h1{
+  text-align: center;
+  margin-top: 20px;
+  width: 90%;
+  margin-left:auto;
+  margin-right:auto;
+}
+.card label{
+text-align: left;
+margin-right:auto;
+}  
+  
